@@ -1,5 +1,5 @@
 #using Node v10
-FROM node:18
+FROM node:10
 
 # Create app directory
 WORKDIR /usr/src/lafs
