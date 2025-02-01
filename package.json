@@ -24,7 +24,7 @@
     "core-js": "^2.5.4",
     "font-awesome": "^4.7.0",
     "hammerjs": "^3.35.0",
-    "rxjs": "~6.3.3",
+    "rxjs": "~7.8.1",
     "rxjs-compat": "^7.8.1",
     "tslib": "^2.6.2",
     "zone.js": "^0.14.4"
