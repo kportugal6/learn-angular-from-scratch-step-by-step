@@ -25,5 +25,5 @@ services:
 # Attach the external network to these containers
 networks:
   default:
-  external:
+  external: true
   name: lafs-net
