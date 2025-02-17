@@ -5,9 +5,10 @@
 export const environment = {
   production: false,
   //api_url: 'http://localhost:3000'
-  api_url: 'https://j6bzb1zb30.execute-api.us-east-1.amazonaws.com'
+  api_url: 'https://j6bzb1zb30.execute-api.us-east-1.amazonaws.com/api'
 
 };
+
 
 /*
  * For easier debugging in development mode, you can import the following file
